@@ -1,9 +1,6 @@
 .cell {
   padding: 4px 5px;
 }
-.toolimg {
-  background-color: #EFEFEF;
-}
 .toolimg img {
   width: 100%;
   display:block;
