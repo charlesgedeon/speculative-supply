@@ -7,3 +7,7 @@
   margin:auto;
   border: none;
 }
+
+.alert {
+  background-color: #fff;
+}
