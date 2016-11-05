@@ -7,7 +7,16 @@
   margin:auto;
   border: none;
 }
-
+.logo {
+  width: 60px;
+  float: left;
+}
+nav {
+  height: 60px;
+}
+nav h1 {
+  line-height: 45px;;
+}
 .alert {
   background-color: #fff;
 }
