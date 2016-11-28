@@ -10,6 +10,7 @@
 .logo {
   width: 60px;
   float: left;
+  display: inline-block;
 }
 nav {
   height: 60px;
@@ -17,6 +18,15 @@ nav {
 nav h1 {
   line-height: 45px;;
 }
+
+nav ul {
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  display:inline-block;
+  vertical-align:top;
+}
+
 .alert {
   background-color: #fff;
 }
